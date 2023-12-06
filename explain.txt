@@ -1,0 +1,16 @@
+Context API
+    create context 
+    create a provider
+    create custom hook
+API (fetch)
+useState
+
+
+React Component life cycle
+    Init (Variable memory allocation)
+
+    load --> mounting ---> happen once
+    update --> updating --> multiple times
+    unload --> unmounting --> happen only once
+
+    useEffect() --> it happen when a side effect in Component happen
